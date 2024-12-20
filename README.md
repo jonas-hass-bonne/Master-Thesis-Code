@@ -23,4 +23,4 @@ This file will setup and run the baseline optimal allocation as well as the poli
 
 The outcomes of the baseline model is stored in the variable `m`, while the outcomes of the policy is stored in the variable `pm`
 
-These can be accessed as normal Mimi model objects to retrieve values for any desired variables. You can refer to the [Mimi documentation](https://mimiframework.ord) for how to interact with and extract results from Mimi models.
+These can be accessed as normal Mimi model objects to retrieve values for any desired variables. You can refer to the [Mimi documentation](https://mimiframework.org) for how to interact with and extract results from Mimi models.
